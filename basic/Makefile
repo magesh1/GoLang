@@ -2,7 +2,7 @@ hello:
 	echo "hello make"
 
 build:
-	go build -o /home/magesh/Documents/go/basic Demo.go
+	go build -o /your path to create exe file yourgofile.go
 
 run:
 	go run Demo.go
